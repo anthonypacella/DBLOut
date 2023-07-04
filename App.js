@@ -19,7 +19,7 @@ export default function App() {
       <NumberButton number = {6} ></NumberButton>
       <NumberButton number = {7} ></NumberButton>
       <NumberButton number = {8} ></NumberButton>
-      <NumberButton number = {9} ></NumberButton>
+      <NumberButton number = {999} ></NumberButton>
       <NumberButton number = {0} ></NumberButton>
       <NumberButton number = {"ENTER"} ></NumberButton>
 
